@@ -1,0 +1,22 @@
+body {
+    color:white;
+    background:#282a36;
+
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    color:lightgray;
+}
+
+.note {
+    position: fixed;
+    left: 20;
+    bottom: 0;
+}
+
+a {
+    color:aqua;
+}
